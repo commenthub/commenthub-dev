@@ -1,2 +1,2 @@
 # commenthub-dev
-commenthub dev center
+commenthub dev comments center
